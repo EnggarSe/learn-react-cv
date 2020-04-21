@@ -1,0 +1,33 @@
+nav{
+   
+   #navbarSupportedContent{
+      margin-left: 40%;
+   }
+   .navbar-brand{
+      margin-left: 20px;
+   }
+   img{
+      margin-top: -5px;
+      width: 65%; 
+   }
+   .nav-item
+   {
+       :hover{
+         width: 75%;
+      }
+   }
+   #username{
+      margin-left: -3px ;   
+   }
+   hr{
+      width : 25%;
+     
+   }
+   #git{
+      background-color: white;
+   }
+   #listnav{
+      background-color: white !important;
+   }
+   
+}

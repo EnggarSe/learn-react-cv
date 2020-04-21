@@ -1,0 +1,33 @@
+nav #navbarSupportedContent {
+  margin-left: 40%;
+}
+
+nav .navbar-brand {
+  margin-left: 20px;
+}
+
+nav img {
+  margin-top: -5px;
+  width: 65%;
+}
+
+nav .nav-item :hover {
+  width: 75%;
+}
+
+nav #username {
+  margin-left: -3px;
+}
+
+nav hr {
+  width: 25%;
+}
+
+nav #git {
+  background-color: white;
+}
+
+nav #listnav {
+  background-color: white !important;
+}
+/*# sourceMappingURL=navigation.css.map */

@@ -1,0 +1,163 @@
+#courasel img {
+  height: 595px !important;
+  margin-left: 15px;
+}
+
+#courasel #button {
+  margin-left: 15px;
+}
+
+#courasel #button :hover {
+  color: green;
+}
+
+#courasel2 {
+  background-color: white !important;
+}
+
+#about {
+  margin: 100px 100px 0px 100px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+#about h1 {
+  font-size: 45px;
+}
+
+#about hr {
+  border-top: 3px solid black;
+}
+
+#about2 {
+  margin: 100px 100px 0px 100px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+#about2 h1 {
+  font-size: 45px;
+}
+
+#about2 hr {
+  border-top: 3px solid black;
+}
+
+.software {
+  margin: 40px 70px 0px 70px;
+  list-style: none;
+  text-align: center;
+}
+
+.software .bar {
+  background: darkblue;
+  display: block;
+  height: 12px;
+  border: 2px solid black;
+  border-radius: 5px;
+  margin-left: 10%;
+  margin-right: 10%;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.software hr {
+  border-top: 3px solid black;
+  width: 50%;
+  margin-top: 0px;
+}
+
+.software .containerBar {
+  margin-top: 50px;
+}
+
+.bar span {
+  height: 8px;
+  border-radius: 5px;
+  float: left;
+  background: grey;
+}
+
+.HTML {
+  width: 90%;
+}
+
+.MICROSOFT {
+  width: 95%;
+}
+
+.ADOBE {
+  width: 85%;
+}
+
+.PYTHON {
+  width: 80%;
+}
+
+.portofolio {
+  margin-top: 40px;
+  list-style: none;
+  text-align: center;
+}
+
+.portofolio img {
+  height: 120px;
+}
+
+.portofolio h1 {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  margin-left: 50px;
+}
+
+.portofolio hr {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  border-top: 2px solid black;
+  margin-top: 0px;
+}
+
+.portofolio #container-card {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  margin: 30px 0 0 50px;
+}
+
+.portofolio #container-card .card {
+  margin-right: 20px;
+}
+
+.portofolio #container-card2 {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  margin: 10px 0 0 50px;
+}
+
+.portofolio #container-card2 .card {
+  margin-right: 20px;
+}
+/*# sourceMappingURL=courasel.css.map */
